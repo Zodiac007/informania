@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/informania/static/css/main.33b5a7bb.chunk.css",
+    "main.js": "/informania/static/js/main.b13f425a.chunk.js",
+    "main.js.map": "/informania/static/js/main.b13f425a.chunk.js.map",
+    "runtime-main.js": "/informania/static/js/runtime-main.f268c6c7.js",
+    "runtime-main.js.map": "/informania/static/js/runtime-main.f268c6c7.js.map",
+    "static/css/2.8cebfa1f.chunk.css": "/informania/static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.8f5781e4.chunk.js": "/informania/static/js/2.8f5781e4.chunk.js",
+    "static/js/2.8f5781e4.chunk.js.map": "/informania/static/js/2.8f5781e4.chunk.js.map",
+    "static/js/3.9a5ad764.chunk.js": "/informania/static/js/3.9a5ad764.chunk.js",
+    "static/js/3.9a5ad764.chunk.js.map": "/informania/static/js/3.9a5ad764.chunk.js.map",
+    "index.html": "/informania/index.html",
+    "static/css/2.8cebfa1f.chunk.css.map": "/informania/static/css/2.8cebfa1f.chunk.css.map",
+    "static/css/main.33b5a7bb.chunk.css.map": "/informania/static/css/main.33b5a7bb.chunk.css.map",
+    "static/js/2.8f5781e4.chunk.js.LICENSE.txt": "/informania/static/js/2.8f5781e4.chunk.js.LICENSE.txt",
+    "static/media/Calendar-bro.d86f8112.svg": "/informania/static/media/Calendar-bro.d86f8112.svg",
+    "static/media/App.css": "/informania/static/media/bg1.340f9f4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f268c6c7.js",
+    "static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.8f5781e4.chunk.js",
+    "static/css/main.33b5a7bb.chunk.css",
+    "static/js/main.b13f425a.chunk.js"
+  ]
+}
