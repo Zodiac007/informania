@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h3 className="animate__animated animate__bounceInLeft animate__slow animate__delay-1s">
-        Check Avalabilty Status
+        Check Availability Status
       </h3>
       <Users />
     </div>

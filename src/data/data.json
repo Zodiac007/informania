@@ -5,15 +5,15 @@
 			"real_name": "Egon Spengler",
 			"tz": "America/Los_Angeles",
 			"activity_periods": [{
-					"start_time": "Feb 1 2021  1:33PM",
+					"start_time": "Feb 1 2021 1:33PM",
 					"end_time": "Feb 1 2021 1:54PM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]
@@ -39,11 +39,11 @@
 					"end_time": "Feb 19 2021 07:00AM"
 				},
 				{
-					"start_time": "Mar 1 2020  11:11AM",
+					"start_time": "Mar 1 2020 11:11AM",
 					"end_time": "Mar 1 2020 2:00PM"
 				},
 				{
-					"start_time": "Mar 16 2020  5:33PM",
+					"start_time": "Mar 16 2020 5:33PM",
 					"end_time": "Mar 16 2020 8:02PM"
 				}
 			]

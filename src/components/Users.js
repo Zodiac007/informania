@@ -32,7 +32,6 @@ function Users() {
                     </div>
                     <div className="button-section">
                       <button
-                        // onClick={() => setShow(true)}
                         onClick={() =>
                           setState((prev) => ({
                             ...prev,

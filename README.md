@@ -33,3 +33,4 @@ This project is simple React Application. Where anyone find the activities of th
 # Deployment
 
 1. This Project is deployed on Github pages.
+2. Check directly this application from https://zodiac007.github.io/informania/.

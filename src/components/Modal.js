@@ -23,7 +23,7 @@ function Modal({ state, setState }) {
     <div>
       <div className="container">
         <div className="row">
-          <div className="col-md-12 modal-section">
+          <div className="col-lg-12 col-md-6 col-sm-10 modal-section">
             <div className="modal-css">
               <span
                 onClick={() => setState((prev) => ({ ...prev, open: false }))}
@@ -31,11 +31,12 @@ function Modal({ state, setState }) {
               >
                 <i class="far fa-times-circle"></i>
               </span>
-              <h4>{DateFormatter(value.toLocaleDateString())}</h4>
+              <h4>{state.userData.real_name}</h4>
+              <h6>{DateFormatter(value.toLocaleDateString())}</h6>
               <hr />
               {activityPeriod.length > 0 ? (
                 <ul>
-                  <h5>Available activities of the following User.</h5>
+                  {/* <h5>{DateFormatter(value.toLocaleDateString())}</h5> */}
                   {activityPeriod.map((i) => {
                     return (
                       <li>
@@ -48,11 +49,7 @@ function Modal({ state, setState }) {
                   })}
                 </ul>
               ) : (
-                <h5>
-                  No Activity Found. Check for another date.
-                  <br />
-                  <u>click calendar</u>
-                </h5>
+                <h5>No Activity Found. Check for another date.</h5>
               )}
               <span onClick={() => setCalender(!calender)} className="icon-cal">
                 <i class="fas fa-calendar-day"></i>
